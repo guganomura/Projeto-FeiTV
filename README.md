@@ -164,3 +164,7 @@ O sistema já vem com 20 vídeos pré-cadastrados:
 ## Repositório GitHub
 
 https://github.com/guganomura/projeto-FeiTV
+
+## Video do projeto
+
+https://youtu.be/QGpJpaoqVBg
